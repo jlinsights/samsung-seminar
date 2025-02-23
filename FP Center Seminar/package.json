@@ -1,0 +1,11 @@
+{
+  "name": "samsung-fp-seminar",
+  "version": "1.0.0",
+  "description": "Samsung Life FP Center Seminar Schedule",
+  "scripts": {
+    "start": "serve public"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+} 
